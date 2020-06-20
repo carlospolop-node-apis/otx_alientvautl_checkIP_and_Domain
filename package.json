@@ -1,0 +1,27 @@
+{
+  "name": "otx_alientvautl_checkip_and_domain",
+  "version": "1.0.0",
+  "description": "Check in Node for malicious IPs and domains in OTX Alientvault",
+  "main": "otx_alientvautl_checkIP_and_Domain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospolop-node-apis/otx_alientvautl_checkIP_and_Domain.git"
+  },
+  "keywords": [
+    "alientvault",
+    "otx",
+    "api",
+    "malware",
+    "ioc",
+    "blacklist"
+  ],
+  "author": "carlospolop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlospolop-node-apis/otx_alientvautl_checkIP_and_Domain/issues"
+  },
+  "homepage": "https://github.com/carlospolop-node-apis/otx_alientvautl_checkIP_and_Domain#readme"
+}
