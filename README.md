@@ -3,12 +3,12 @@
 Check in Node for malicious IPs and domains in [OTX Alientvault](https://otx.alienvault.com)
 
 ## Install
-`npm install otx_alientvautl_checkIP_and_Domain`
+`npm install otx_alientvautl_checkip_and_domain`
 
 ## How to use
 
 ```javascript
-const otxalient = require('otx_alientvautl_checkIP_and_Domain');
+const otxalient = require('otx_alientvautl_checkip_and_domain');
 otxalient.setApiKey("<API KEY>");
 
 // A promise will be returned
